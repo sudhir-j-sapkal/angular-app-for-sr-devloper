@@ -1,0 +1,2 @@
+# angular-app-for-sr-devloper
+"When hiring new talent, we ask them to solve a technical / coding test. We want to create such a test for a senior developer position.  The problem statement for the test is to create APIs using PHP, for a frontend that is already ready.   The hackathon project is to build this frontend, not the API. However for testing purpose you can use the readymade APIs from https://jsonplaceholder.typicode.com/"
